@@ -1,15 +1,12 @@
 Sou graduanda de análise de desenvolvimento de sistemas. Apaixonada por tecnologia, dados e inovação, meu objetivo é transformar ideias e insights em soluções que gerem impacto real.
 Busco constantemente aprimorar minhas habilidades e espero contribuir em projetos desafiadores no mercado de tecnologia.
-<br><br>
+<br>
 ### ✨Alguns projetos
 
 [Análise de clientes de e-commerce](https://github.com/melissasilvadev/analise_clientes_ecommerce_olist): identificando padrões de clientes e propondo estratégias de fidelização e campanhas com segmentação regional.
 
 [Livi Seguro Residencial](https://github.com/melissasilvadev/livi-seguro-residencial): site com interface intuitiva e funcionalidades interativas para contratação de seguros residenciais.
-
 <!--Análise em excel: Painel dinâmico para monitorar desempenho de vendas e indicadores de negócio em tempo real.-->
-<br>
-
 ### 📊Algumas tecnologias que utilizo
 Linguagens:
 
