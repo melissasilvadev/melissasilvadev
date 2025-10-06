@@ -1,17 +1,31 @@
-<h1>Hey , I'm Melissa</h1>
+Sou graduanda de análise de desenvolvimento de sistemas. Apaixonada por tecnologia, dados e inovação, meu objetivo é transformar ideias e insights em soluções que gerem impacto real.
+Busco constantemente aprimorar minhas habilidades e espero contribuir em projetos desafiadores no mercado de tecnologia.
+<br><br>
+### ✨Alguns projetos
 
-👩‍💻 Web Developer<br>
+[Análise de clientes de e-commerce](https://github.com/melissasilvadev/analise_clientes_ecommerce_olist): identificando padrões de clientes e propondo estratégias de fidelização e campanhas com segmentação regional.
 
-📖 I'm majoring in Systems Analysis and Development<br>
-🧩 I’m looking to collaborate on creative and innovative applications<br>
-🌱 I’m currently learning Full Stack technologies
+[Livi Seguro Residencial](https://github.com/melissasilvadev/livi-seguro-residencial): site com interface intuitiva e funcionalidades interativas para contratação de seguros residenciais.
 
-## 💻 Tech Stack:
-<img src="https://github.com/user-attachments/assets/a4d9bfa6-f9ee-4404-ab91-276558757a7b" width="50px">
-<img src="https://github.com/user-attachments/assets/42046e0a-3fd3-4536-87f9-9b414bc2a0b9" width="50px">
-<img src="https://github.com/user-attachments/assets/8ce5b6c2-f76f-4086-a02b-3aa234c36df5" width="55px">
-<img src="https://github.com/user-attachments/assets/65056273-2e01-49f4-9394-9a0d8f5df6ec" width="50px">
-<img src="https://github.com/user-attachments/assets/24226820-501b-4695-ab88-41193dc1b439" width="50px">
-<img src="https://github.com/user-attachments/assets/0d8b6738-ef83-42d2-8d1b-7dc5a528429f" width="45px">
+<!--Análise em excel: Painel dinâmico para monitorar desempenho de vendas e indicadores de negócio em tempo real.-->
+<br>
 
+### 📊Algumas tecnologias que utilizo
+Linguagens:
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+Bibliotecas e Frameworks:
+
+![Pandas](https://img.shields.io/badge/pandas-130654?style=for-the-badge&logo=pandas&logoColor=ffdd54) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+
+Ferramentas:
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/excel-026E39?style=for-the-badge&logo=excel&logoColor=black) ![Git](https://img.shields.io/badge/git-F44D27?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 😉 Vamos conversar?
+Estou aberta a novas oportunidades e colaborações.<br>
+[Meu Linkedin](linkedin.com/in/melissasilvadev)
 
