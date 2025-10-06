@@ -18,7 +18,7 @@ Bibliotecas e Frameworks:
 
 Ferramentas:
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/excel-026E39?style=for-the-badge&logo=excel&logoColor=black) ![Git](https://img.shields.io/badge/git-F44D27?style=for-the-badge&logo=git&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/excel-026E39?style=for-the-badge&logo=excel&logoColor=black)  ![Jupiter Nootebook](https://img.shields.io/badge/jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/git-F44D27?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
