@@ -3,14 +3,16 @@ Busco constantemente aprimorar minhas habilidades e espero contribuir em projeto
 <br>
 ### ✨Alguns projetos
 
-[Análise de clientes de e-commerce](https://github.com/melissasilvadev/analise_clientes_ecommerce_olist): identificando padrões de clientes e propondo estratégias de fidelização e campanhas com segmentação regional.
+[Análise de desempenho de vendas](https://github.com/melissasilvadev/desempenho-vendas-elektragames): utilizando Microsoft Excel, identifiquei fatores de desempenho e extraí insights para orientar a estratégia de negócios.
 
-[Livi Seguro Residencial](https://github.com/melissasilvadev/livi-seguro-residencial): site com interface intuitiva e funcionalidades interativas para contratação de seguros residenciais.
-<!--Análise em excel: Painel dinâmico para monitorar desempenho de vendas e indicadores de negócio em tempo real.-->
+[Análise de clientes de e-commerce](https://github.com/melissasilvadev/analise_clientes_ecommerce_olist): com SQL, indentifiquei padrões de clientes e recomendei estratégias de fidelização e campanhas com segmentação regional.
+
+[Livi Seguro Residencial](https://github.com/melissasilvadev/livi-seguro-residencial): desenvolvi um site com interface intuitiva e funcionalidades interativas para contratação de seguros residenciais.
+
 ### 📊Algumas tecnologias que utilizo
 Linguagens:
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 Bibliotecas e Frameworks:
 
@@ -18,7 +20,7 @@ Bibliotecas e Frameworks:
 
 Ferramentas:
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/excel-026E39?style=for-the-badge&logo=excel&logoColor=black)  ![Jupiter Nootebook](https://img.shields.io/badge/jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/git-F44D27?style=for-the-badge&logo=git&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/excel-026E39?style=for-the-badge&logo=excel&logoColor=black)  ![Jupiter Nootebook](https://img.shields.io/badge/jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/git-F44D27?style=for-the-badge&logo=git&logoColor=white) ![DataGrip](https://img.shields.io/badge/datagrip-black?style=for-the-badge&logo=datagrip&logoColor=white)
 
 ---
 
